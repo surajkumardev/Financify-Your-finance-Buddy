@@ -1,18 +1,18 @@
-# 💰 Financify – Your Finance Buddy
+# 💵 Financify – Your Finance Buddy
 
 Financify is a full-stack personal finance management application designed to help users track expenses, manage budgets, and build smarter money habits.  
 It consists of a **Spring Boot backend** and a **Vite + Tailwind + JavaScript frontend**.
 
 ---
 
-## 🚀 Features
+## 🌃 Features
 
-- ✅ Expense tracking by category  
-- ✅ Budget planning and analytics  
-- ✅ Secure authentication using JWT  
-- ✅ REST API built using Spring Boot  
-- ✅ Responsive UI designed with Tailwind CSS  
-- ✅ Clean folder separation: `/Backend` and `/Frontend`  
+- 🎫 Expense tracking by category  
+- 🎫 Budget planning and analytics  
+- 🎫 Secure authentication using JWT  
+- 🎫 REST API built using Spring Boot  
+- 🎫 Responsive UI designed with Tailwind CSS  
+- 🎫 Clean folder separation: `/Backend` and `/Frontend`  
 
 ---
 
@@ -45,7 +45,7 @@ FINANCIFY_PROJECT_SEM_5/
 
 ---
 
-## 📌 How to Run the Project
+## 🍺📍 How to Run the Project
 
 ### 🔹 1️⃣ Clone the repository
 ```bash
@@ -117,8 +117,8 @@ app.jwt.expiration=86400000
 
 ---
 
-## 📈 Future Enhancements
-
+## 🔮 Future Enhancements
+ 
 * AI-based spending insights
 * PDF export of reports
 * Notifications & reminders
@@ -126,7 +126,7 @@ app.jwt.expiration=86400000
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Pull requests, issues, and feedback are welcome!
 If you'd like to improve the UI, API, or documentation — feel free to contribute.
