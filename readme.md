@@ -153,8 +153,3 @@ If you like Financify, consider **starring ⭐ the repository** — it motivates
 ## 📜 License
 
 This project is licensed under the **MIT License**.
-
-```
-
-and I’ll update the README for you.
-```
