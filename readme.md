@@ -3,8 +3,6 @@
 Financify is a full-stack personal finance management application designed to help users track expenses, manage budgets, and build smarter money habits.  
 It consists of a **Spring Boot backend** and a **Vite + Tailwind + JavaScript frontend**.
 
----.
-
 ---
 
 ## 🖼️ UI Preview (Screenshots)
